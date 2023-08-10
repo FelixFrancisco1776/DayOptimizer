@@ -18,15 +18,6 @@ This project is licensed under the [MIT](LICENSE) License.
   ## Installation
   Open terminal and enter node index.js
   
-  ## Usage
-  No specific usage at the moment.
-  
-  ## Contributing
-  No specific contribution guidelines at the moment.
-  
-  ## Tests
-  No specific tests at the moment.
-  
   ## Questions
   For any questions or feedback, please feel free to contact me:
   - GitHub: [felixfrancisco1776](https://github.com/felixfrancisco1776)
